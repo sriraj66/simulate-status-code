@@ -14,7 +14,7 @@ export default function HomePage() {
   return (
     <>
       <Head>
-        <title>HTTP Status Code Viewer | Test & Simulate HTTP Responses</title>
+        <title>HTTP Status Code Simulator | Test & Simulate HTTP Responses</title>
         <link rel="icon" href="https://sriraj66.github.io/img/sriram.png" />
         <meta
           name="description"
@@ -26,7 +26,7 @@ export default function HomePage() {
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="HTTP Status Code Viewer" />
+        <meta property="og:title" content="HTTP Status Code Simulator" />
         <meta
           property="og:description"
           content="Simulate and test real HTTP response codes for debugging and frontend development."
@@ -39,7 +39,7 @@ export default function HomePage() {
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="HTTP Status Code Viewer" />
+        <meta name="twitter:title" content="HTTP Status Code Simulator" />
         <meta
           name="twitter:description"
           content="A tool to simulate HTTP responses like 404, 500, and more for frontend debugging."
@@ -82,7 +82,7 @@ export default function HomePage() {
         }}
       >
         <h1 style={{ fontSize: "2em", color: "#333" }}>
-          📡 HTTP Status Code Viewer
+          📡 HTTP Status Code Simulator
         </h1>
 
         <p>
