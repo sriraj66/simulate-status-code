@@ -15,7 +15,7 @@ export default function HomePage() {
     <>
       <Head>
         <title>HTTP Status Code Simulator | Test & Simulate HTTP Responses</title>
-        <link rel="icon" href="https://sriraj66.github.io/img/sriram.png" />
+        <link rel="icon" href="https://icon-library.com/images/code-icon-png/code-icon-png-10.jpg" />
         <meta
           name="description"
           content="A simple developer tool to simulate and test real HTTP response codes like 404, 500, 301, etc. Perfect for debugging and learning."
