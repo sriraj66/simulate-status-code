@@ -1,0 +1,3 @@
+# Allow all user agents to crawl every route for status code simulation and URL extraction
+User-agent: *
+Allow: /
