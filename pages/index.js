@@ -52,6 +52,13 @@ export default function HomePage() {
         <link rel="canonical" href={origin || "https://simulatehttpcode.vercel.app"} />
         <link rel="icon" href="/favicon.ico" />
 
+        {/* Google AdSense */}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9617738770270233"
+          crossOrigin="anonymous"
+        />
+
         {/* Google Analytics */}
         <script
           async
